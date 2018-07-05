@@ -11,6 +11,7 @@
 
 import _ from 'lodash';
 import './styles/app.scss';
+import './styles/header.scss';
 
 function component() {
     var element = document.createElement('div');
